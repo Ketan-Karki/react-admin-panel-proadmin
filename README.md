@@ -5,6 +5,7 @@
 [https://react-admin-panel-proadmin.netlify.app/](https://react-admin-panel-proadmin.netlify.app/)
 
 This is an admin panel template built using HTML,SCSS,JS and ReactJS
+
 Reference: https://www.youtube.com/watch?v=yKV1IGahXqA
 
 - Right now it consists of three modules Home Dashboard, Users Page, Single User Page, New User Page, and Products Page
